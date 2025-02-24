@@ -1,9 +1,12 @@
-name: Generate Cool Contribution Snake
+name: Generate Enhanced Contribution Snake Animation
 
 on:
+  # Run every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" 
+  # Manual trigger
   workflow_dispatch:
+  # Run on push to main branch
   push:
     branches:
       - main
@@ -14,28 +17,19 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Generate Snake with Custom Design
+      # Generate enhanced snake animations from your GitHub contributions graph
+      - name: Generate Enhanced GitHub Contribution Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=0d1117,161b22,2a0a45,00ff87,00ffd5&cell_radius=4&cell_size=14&duration_seconds=10
+            dist/github-contribution-grid-snake.svg?palette=default&snakeColor=%2300ff7f&cellSize=12&animationSpeed=1.2&strokeWidth=2
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&snakeColor=%23ff4500&cellSize=12&animationSpeed=1.2&strokeWidth=2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Add Glow Effect to Snake
-        run: |
-          # Add SVG filter definition
-          sed -i 's|<svg |<defs><filter id="glow"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><svg |' dist/github-contribution-grid-snake-dark.svg
           
-          # Apply filter to snake path
-          sed -i 's/<path d="M/<path filter="url(#glow)" d="M/g' dist/github-contribution-grid-snake-dark.svg
-          
-          # Add background gradient
-          sed -i 's|<svg |<linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#2a0a45;stop-opacity:1" /><stop offset="100%" style="stop-color:#000000;stop-opacity:1" /></linearGradient><rect width="100%" height="100%" fill="url(#grad1)" />|' dist/github-contribution-grid-snake-dark.svg
-
-      - name: Deploy Snake Animation
+      # Deploy the generated SVGs to the output branch (and optionally GitHub Pages)
+      - name: Push GitHub Contribution Snake SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
