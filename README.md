@@ -25,8 +25,6 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Pixel+Alchemist;Cross-Platform+Sorcerer;OpenCV+Visionary;Innovating+at+60+FPS&font=Fira+Code&center=true&width=600&height=45&color=00FF00&vCenter=true&pause=1000" alt="Dynamic Banner"/>
 </p>
@@ -37,9 +35,7 @@
 
 ---
 
-
 <h1 align="center">🚀 Digital Craftsmanship</h1>
-
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 
@@ -51,7 +47,6 @@ I am a dedicated **Flutter Developer** with **2+ years** of experience in design
 - 🌐 **Backend & Web Integration:** Integrating **Firebase** for real-time data and authentication, along with proficiency in **HTML**, **CSS**, and **JavaScript** for web development.
 
 **Current Quest:** Developing a real-time AR navigation system using Flutter in combination with OpenCV to create innovative and interactive experiences.
-
 
 ---
 
