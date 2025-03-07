@@ -99,10 +99,6 @@ I am a dedicated **Flutter Developer** with **2+ years** of experience in design
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-Hamid&theme=vision-friendly-dark&hide_border=true" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raja-Hamid&theme=darkhub&row=1&column=3" alt="Achievement Badges" width="80%"/>
-</p>
-
 ---
 
 <h1 align="center">📜 Wisdom Scroll</h1>
@@ -113,7 +109,6 @@ I am a dedicated **Flutter Developer** with **2+ years** of experience in design
 
 ---
 
-<h1 align="center">🐍 Contribution Snake</h1>
 
 ![Snake animation](https://raw.githubusercontent.com/Raja-Hamid/Raja-Hamid/output/github-contribution-grid-snake-dark.svg)
 
