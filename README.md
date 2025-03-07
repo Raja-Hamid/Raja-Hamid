@@ -1,4 +1,4 @@
-<h1 align="center"><strong>💻 Raja Hamid</strong> | Flutter Architect</h1>
+<h1 align="center"><strong>💻 Raja Hamid</strong> | App Developer</h1>
 
 
 <div align="center">
