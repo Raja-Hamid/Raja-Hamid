@@ -1,8 +1,11 @@
-<!-- 🌌 ULTRA-PREMIUM DARK THEME GITHUB PROFILE README FOR RAJA HAMID -->
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=250&color=00FFF0&center=true&vCenter=true&width=600&lines=💻+Raja+Hamid;App+Developer+|+Automation+Expert" alt="Typing SVG" />
-</h1>
+<!-- HERO SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raja%20Hamid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Mobile%20Architect%20%7C%20Innovation%20Engineer&descSize=16&descAlignY=51"/>
+
+</div>
+
+<div align="center">
 
 <div align="center">
   <img src="assets/banner_animation.gif" width="100%" alt="Code Symphony Banner" style="border-radius:12px; box-shadow: 0 0 20px rgba(0,255,255,0.15);"/>
@@ -23,9 +26,17 @@
   <img src="https://komarev.com/ghpvc/?username=Raja-Hamid&label=Profile+Views&color=00FFC6&style=flat-square" alt="Profile Views" />
 </p>
 
----
 
-<h2 align="center">🚀 About Me</h2>
+</div>
+
+<br>
+
+<!-- ELEGANT SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🌟 **About Me**
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" align="right" style="border-radius:12px;"/>
@@ -49,73 +60,89 @@ I blend <strong>creativity with precision</strong> to turn bold ideas into elega
 🎯 <strong>Current Focus:</strong> Building an <em>AR Navigation System</em> powered by Flutter + OpenCV for real-world interactions.
 </p>
 
----
+<br>
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<br>
 
-#### 🧠 Core Expertise
-<p>
+## 💎 **Tech Arsenal**
+
+<div style="text-align: center;">
+
+### **Core Technologies**
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-#### 🧩 Development Ecosystem
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>Frontend</b><br><br>
-      <img src="https://img.icons8.com/color/48/html-5.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/css3.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
-    </td>
-    <td align="center" width="33%">
-      <b>Backend</b><br><br>
-      <img src="https://img.icons8.com/color/48/firebase.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/mongodb.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/postgresql.png" width="40"/>
-    </td>
-    <td align="center" width="33%">
-      <b>Tools & DevOps</b><br><br>
-      <img src="https://img.icons8.com/color/48/opencv.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/docker.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/git.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/linux.png" width="40"/>
-    </td>
-  </tr>
-</table>
+
+### **Development Ecosystem**
+
+<details open>
+<summary><b>🎨 Frontend & UI</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark"/>
+</details>
+
+<details open>
+<summary><b>⚡ Backend & Databases</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,graphql,express&theme=dark"/>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & DevOps</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark"/>
+</details>
+
+<details open>
+<summary><b>🧠 AI & Computer Vision</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,python&theme=dark"/>
+</details>
 
 </div>
 
----
+<br>
 
-<h2 align="center">📊 GitHub Insights</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raja-Hamid&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10&card_width=450" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raja-Hamid&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-Hamid&bg_color=0d1117&color=00FFF0&line=00FFF0&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
-</p>
+## 📊 **GitHub Analytics**
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="50%" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raja-Hamid&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Raja-Hamid&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0d1117"/>
 
----
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-Hamid&custom_title=Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&theme=github-dark"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raja-Hamid/Raja-Hamid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/>
-</p>
+### **Contribution Snake**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raja-Hamid/Raja-Hamid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raja-Hamid/Raja-Hamid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raja-Hamid/Raja-Hamid/output/github-contribution-grid-snake.svg">
+</picture>
 
----
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+**⭐ If you find my work interesting, consider starring some repositories!**
+
+</div>
