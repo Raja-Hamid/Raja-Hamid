@@ -57,7 +57,7 @@ I'm <strong>Raja Hamid</strong>, a <strong>Flutter Developer</strong> with over 
 </p>
 
 <p align="left">
-🎯 <strong>Current Focus:</strong> Developing an <em>AR Navigation System</em> using Flutter and OpenCV for real-world spatial interactions.
+🎯 <strong>Current Focus:</strong> Developing a <em>Disaster Relief Application</em> using Flutter and custom Prediction models.
 </p>
 
 <br>
